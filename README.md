@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlphaRTC Gym example
 
 This repository is an example for [AlphaRTC Gym](https://github.com/OpenNetLab/gym). By converting the raw stats of packet traces to some features and leveraging the PPO algorithms, this example trained a simple bandwidth estimator.
@@ -35,3 +36,6 @@ Episode 4        Average policy loss, value loss, reward -0.0002334891452391077,
 
 ```
 which means this example has readied in your environment. And you can find your model under the folder `data`.
+=======
+# LSTM-RL-Congestion-Control
+>>>>>>> 952b377e370d26a465c90725537625d8215254c9
